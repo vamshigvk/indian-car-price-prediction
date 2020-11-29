@@ -1,0 +1,5 @@
+created new environment : conda create -n projectname python=3.8
+create a directory for project with data in it
+activate projectname
+goto the projectpath location
+jupyter notebook
